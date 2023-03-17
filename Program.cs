@@ -4,7 +4,12 @@
     {
         public static void Main(String[] args)
         {
-            EmpAttendance.EmpComputation();
+             EmpAttendance.EmpComputation();
+             EmpDailyWage.EmpComputation();
+             DailyEmpparttimeWage.EmpComputation();
+             EmpwageusingSwitch.EmpComputation();
+             EmpMonthlyWage.EmpComputation();
+             TotalWorkingHour.EmpComputation();
         }
     }
 }
