@@ -6,7 +6,8 @@
         {
             // EmpAttendance.EmpComputation();
             // EmpDailyWage.EmpComputation();
-            DailyEmpparttimeWage.EmpComputation();
+            // DailyEmpparttimeWage.EmpComputation();
+            EmpwageusingSwitch.EmpComputation();
         }
     }
 }
