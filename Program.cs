@@ -8,7 +8,8 @@
             // EmpDailyWage.EmpComputation();
             // DailyEmpparttimeWage.EmpComputation();
             //EmpwageusingSwitch.EmpComputation();
-            EmpMonthlyWage.EmpComputation();
+            //EmpMonthlyWage.EmpComputation();
+            TotalWorkingHour.EmpComputation();
         }
     }
 }
