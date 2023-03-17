@@ -5,7 +5,8 @@
         public static void Main(String[] args)
         {
             // EmpAttendance.EmpComputation();
-            EmpDailyWage.EmpComputation();
+            // EmpDailyWage.EmpComputation();
+            DailyEmpparttimeWage.EmpComputation();
         }
     }
 }
